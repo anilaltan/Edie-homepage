@@ -40,13 +40,13 @@
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
-Where can I see your demo?
-You can see it by clicking this address.(https://recipe-page.surge.sh/)
-What was your experience?
-I have completely built a page on my own and have practiced my knowledge
-What have you learned/improved?
-Reinforced my html and css knowledge
-Your wisdom? :)
+-Where can I see your demo?
+-You can see it by clicking this address.(https://recipe-page.surge.sh/)
+-What was your experience?
+-I have completely built a page on my own and have practiced my knowledge
+-What have you learned/improved?
+-Reinforced my html and css knowledge
+-Your wisdom? :)
 
 ### Built With
 
